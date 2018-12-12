@@ -1,0 +1,4 @@
+g++ -Wno-deprecated *.cpp
+mv -f a.out pugbot
+mv -f pugbot ../hlds_l
+
